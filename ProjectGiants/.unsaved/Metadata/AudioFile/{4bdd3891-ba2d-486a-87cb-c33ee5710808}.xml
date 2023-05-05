@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4bdd3891-ba2d-486a-87cb-c33ee5710808}">
+		<property name="assetPath">
+			<value>test/footsteps-loop-38472.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.1520000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{591d3821-3ac5-4f6c-ba57-15cc10f3ce4f}</destination>
+		</relationship>
+	</object>
+</objects>
