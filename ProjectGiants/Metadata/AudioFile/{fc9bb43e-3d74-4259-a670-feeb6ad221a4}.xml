@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fc9bb43e-3d74-4259-a670-feeb6ad221a4}">
+		<property name="assetPath">
+			<value>SFX/Player/Footsteps/HighForestGrass/ForestStep_2.03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36035416666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{591d3821-3ac5-4f6c-ba57-15cc10f3ce4f}</destination>
+		</relationship>
+	</object>
+</objects>

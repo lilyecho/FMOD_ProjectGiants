@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b08ae93b-4101-476e-b72f-f2453b1c4b8c}">
+		<property name="assetPath">
+			<value>SFX/Player/Footsteps/Dirt/DirtStep_1.09.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.15127083333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{591d3821-3ac5-4f6c-ba57-15cc10f3ce4f}</destination>
+		</relationship>
+	</object>
+</objects>
